@@ -1,0 +1,5 @@
+package com.soa.studentservice.entity;
+
+public class Student {
+
+}
